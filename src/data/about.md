@@ -1,9 +1,9 @@
 
 # Intro
 
-I am a Computer Science student at Wilmington University. I will be graduating in Spring 2024. In my studies I've been exposed to 
-a variety of concepts like front-end development, databases, data structures, and algorithms. Read on to see my favorite technologies
-and frameworks!
+Hi, i'm Erick. I am Computer Science graduate and Epic Security Analyst at Penn Medicine.
+
+I work at the intersection of healthcare, security, and technology, managing access systems while continuously improving workflows and efficiency. I’m passionate about building clean, scalable solutions and turning ideas into practical applications.
 
 # Favorite Languages
 
